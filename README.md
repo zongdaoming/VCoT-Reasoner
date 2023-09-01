@@ -1,4 +1,4 @@
-# Multimodal Chain-of-Thought Reasoning in Language Models
+# VCoT-Reasoner: Multimodal Chain-of-Thought Reasoning in Language Models
 
 <h5 align="center"><i>"Imagine learning a textbook without figures or tables."</i></h5>
 
