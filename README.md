@@ -1,4 +1,4 @@
-# VCoT-Reasoner: Multimodal Chain-of-Thought for Commonsense Reasoning
+# MCoT-CR: Efficient Multimodal Chain-of-Thought for Commensense Reasoning
 
 <h5 align="center"><i>"Imagine learning a textbook without figures or tables."</i></h5>
 
