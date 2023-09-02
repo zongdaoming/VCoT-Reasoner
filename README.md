@@ -1,4 +1,4 @@
-# MCoT-CR: Efficient Multimodal Chain-of-Thought for Commensense Reasoning
+# MCoT-CR: Eliciting Commonsense Reasoning via Multimodal Chain-of-Thought
 
 <h5 align="center"><i>"Imagine learning a textbook without figures or tables."</i></h5>
 
